@@ -1,2 +1,6 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 its for a test case. case 2. case 3.
+=======
+its for a test case. case 2.
+>>>>>>> b11e2c7 ([UPDT] Updated the file)
