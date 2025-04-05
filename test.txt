@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 its for a test case. case 2.
+=======
+its for a test case.
+>>>>>>> bd8cb22 ([ADD] Added test.txt)
